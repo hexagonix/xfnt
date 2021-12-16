@@ -1,11 +1,11 @@
 ;;************************************************************************************
 ;;
 ;;    
-;;        %#@$%¨@$%¨@$%$             Sistema Operacional Andromeda®
+;;        %#@$%¨@$%¨@$%$             Sistema Operacional Hexagonix®
 ;;        #E@$@$@#@#@#@$
 ;;        @#@$3    %#$#%
 ;;        @#$@$    #@#$@
-;;        #@#$$    !@#@#     Copyright © 2016-2021 Felipe Miguel Nery Lunkes
+;;        #@#$$    !@#@#     Copyright © 2016-2022 Felipe Miguel Nery Lunkes
 ;;        @#@%!$&%$&$#@#           Todos os direitos reservados
 ;;        !@$%#%&#¨@¨$%#
 ;;        @$#!%¨@¨@#&*@&
@@ -17,7 +17,7 @@
 
 ;;************************************************************************************
 ;;
-;; Fonte Atomic para Sistema Operacional Andromeda®
+;; Fonte Atomic para Sistema Operacional Hexagonix®
 ;;
 ;;************************************************************************************
 

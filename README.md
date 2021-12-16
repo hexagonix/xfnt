@@ -25,15 +25,15 @@ Desenvolvida por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 ### DNA
 
-Primeira fonte do Hexagon, é mantida mas não atualizada desde o desenvolvimento da fonte Atomic.
+Essa fonte está em desenvolvimento e herda detalhes da fonte Atomic.
 Desenvolvida por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 ### Glaux
 
-Fonte obtida de um projeto antigo de sistema operacional de domínio público que não está mais disponível em repositórios online no momento.
+Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
 # Informação de localização na árvore de construção do Hexagonix/Andromeda:
 
 Este repositório deve ser clonado diretamente no diretório raiz local, com o nome de Fontes.
 
-Versão deste arquivo: 1.0
+Versão deste arquivo: 1.1
