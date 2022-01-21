@@ -5,11 +5,11 @@
 ;;        #E@$@$@#@#@#@$
 ;;        @#@$3    %#$#%
 ;;        @#$@$    #@#$@
-;;        #@#$$    !@#@#     Copyright © 2016-2022 Felipe Miguel Nery Lunkes
+;;        #@#$$    !@#@#     Copyright © 2022 Felipe Miguel Nery Lunkes
 ;;        @#@%!$&%$&$#@#           Todos os direitos reservados
 ;;        !@$%#%&#¨@¨$%#
-;;        @$#!%¨@¨@#&*@&                     Versão 1.0
-;;        $#$#%    &%$#@
+;;        @$#!%¨@¨@#&*@&                     Versão 1.1 
+;;        $#$#%    &%$#@                    (21/01/2022)
 ;;        @#!$$    !#@#@
 ;;
 ;;
@@ -1447,7 +1447,7 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
-	db 01111110b
+	db 00111110b
 	db 00000001b
 	db 00111111b
 	db 01000001b
@@ -1586,7 +1586,7 @@ assinatura: db "HFNT"
 	db 00000001b
 
 	db 00000001b
-	db 00000011b
+	db 00011110b
 	db 00000000b
 	db 00000000b
 	db 00000000b
@@ -1599,13 +1599,13 @@ assinatura: db "HFNT"
 	
 	db 00000000b
 	db 00000000b
-	db 00000000b
+	db 01000000b
 	db 01000000b
 	db 01000000b
 	db 01111100b
 	db 01000010b
-	db 01000001b
-	db 01000001b
+	db 01000010b
+	db 01000010b
 
 	db 00000000b
 	db 00000000b
@@ -1666,12 +1666,12 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
-	db 00000000b
+	db 01000000b
 	db 01000100b
 	db 01001000b
 	db 01110000b
 	db 01001000b
-	db 01001100b
+	db 01000110b
 
 	db 00000000b
 	db 00000000b
@@ -1710,8 +1710,8 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
-	db 01100011b
-	db 01010101b
+	db 01110111b
+	db 01001001b
 	db 01001001b
 	db 01001001b
 	db 01001001b
@@ -1732,9 +1732,9 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
-	db 01000000b
-	db 01011110b
-	db 01100001b
+	db 00000000b
+	db 01111110b
+	db 01000001b
 	db 01000001b
 	db 01000001b
 	db 01000001b
@@ -1819,8 +1819,8 @@ assinatura: db "HFNT"
 	
 	db 00000000b
 	db 00000000b
-	db 01000000b
-	db 01011111b
+	db 00000000b
+	db 01011100b
 	db 01100000b
 	db 01000000b
 	db 01000000b
@@ -1886,12 +1886,12 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
+	db 00000000b
 	db 01000001b
 	db 01000001b
 	db 01000001b
 	db 01000001b
-	db 01000001b
-	db 01111111b
+	db 00111110b
 
 	db 00000000b
 	db 00000000b
@@ -1952,9 +1952,9 @@ assinatura: db "HFNT"
 	db 00000000b
 	db 00000000b
 	db 00000000b
-	db 10000001b
 	db 01000010b
-	db 00111100b
+	db 00100100b
+	db 00011000b
 	db 00011000b
 	db 00100100b
 	db 01000010b
