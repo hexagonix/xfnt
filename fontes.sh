@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #;;************************************************************************************
 #;;
 #;;    
@@ -21,7 +21,7 @@ echo
 for i in *.asm
 do
 
-	echo -n Gerando arquivo de fonte Hexagon® $(basename $i .asm)...
+	echo -n Construindo arquivo de fonte Hexagon® $(basename $i .asm)...
 	
 	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
 	
@@ -30,4 +30,4 @@ do
 done
 
 echo
-echo "} Fontes geradas com sucesso."
+echo -e "} [\e[32mFontes construídas com sucesso\e[0m]."
