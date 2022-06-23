@@ -25,7 +25,7 @@ do
 	
 	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
 	
-	echo " [Ok]"
+	echo -e "[\e[32mOk\e[0m]"
 	
 done
 
