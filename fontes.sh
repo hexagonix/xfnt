@@ -15,13 +15,13 @@
 #;;************************************************************************************
 
 echo
-echo "Construindo fontes do Hexagon®... {"
+echo -e "\e[1;94mConstruindo fontes do Hexagon®...\e[0m {"
 echo
 
 for i in *.asm
 do
 
-	echo -n Construindo arquivo de fonte Hexagon® $(basename $i .asm)...
+	echo -en "Construindo arquivo de fonte Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
 	
 	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
 	
