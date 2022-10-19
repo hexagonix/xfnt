@@ -21,7 +21,7 @@ echo
 for i in *.asm
 do
 
-	echo -en "Construindo arquivo de fonte Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
+	echo -en "Construindo fonte para Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
 	
 	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
 	
