@@ -33,8 +33,6 @@ As fontes são escritas em assembly e geram imagens binárias que devem conter u
 <br>
 <summary align='left'><strong>hint</strong></summary>
 
-### hint
-
 Fonte mais recente desenvolvida para o Hexagon e em teste como fonte padrão. 
 Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -43,8 +41,6 @@ Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 <details title="Atomic" align='left'>
 <br>
 <summary align='left'><strong>Atomic</strong></summary>
-
-### Atomic
 
 Fonte desenvolvida para o Hexagon e a fonte padrão (menos quando outra está em teste), mais legível e maior.
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -55,8 +51,6 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 <br>
 <summary align='left'><strong>Atomic Flat</strong></summary>
 
-### Atomic flat
-
 Essa fonte é baseada na Atomic e retira alguns detalhes de certos caracteres, como +, ! e =).
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -66,8 +60,6 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 <br>
 <summary align='left'><strong>DNA</strong></summary>
 
-### DNA
-
 Essa fonte está em desenvolvimento e herda detalhes da fonte Atomic.
 Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -76,8 +68,6 @@ Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 <details title="Glaux" align='left'>
 <br>
 <summary align='left'><strong>Glauc</strong></summary>
-
-### Glaux
 
 Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
@@ -101,8 +91,6 @@ Fonts are written in assembly and generate binary images that must contain a fon
 <br>
 <summary align='left'><strong>hint</strong></summary>
 
-### hint
-
 Latest font developed for Hexagon and being tested as default font.
 Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -111,8 +99,6 @@ Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 <details title="Atomic" align='left'>
 <br>
 <summary align='left'><strong>Atomic</strong></summary>
-
-### Atomic
 
 Font developed for Hexagon and the default font (less when another is being tested), more readable and bigger.
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -123,8 +109,6 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 <br>
 <summary align='left'><strong>Atomic Flat</strong></summary>
 
-### Atomic flat
-
 This font is based on Atomic and takes some detail from certain characters, such as +, ! and =).
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -134,8 +118,6 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 <br>
 <summary align='left'><strong>DNA</strong></summary>
 
-### DNA
-
 This font is under development and inherits details from the Atomic font.
 Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
@@ -144,8 +126,6 @@ Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 <details title="Glaux" align='left'>
 <br>
 <summary align='left'><strong>Glaux</strong></summary>
-
-### Glaux
 
 Source taken from an old public domain operating system (GlauxOS) project that is no longer available in online repositories at this time.
 
