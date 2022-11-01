@@ -21,8 +21,6 @@
 <br>
 <summary align='left'><strong>Português</strong></summary>
 
-# Português
-
 ## Fontes gráficas para Hexagon
 
 Este repositório contém as fontes gráficas para o Hexagon.
@@ -78,8 +76,6 @@ Fonte obtida de um projeto antigo de sistema operacional de domínio público (G
 <details title="English" align='left'>
 <br>
 <summary align='left'><strong>English</strong></summary>
-
-# English
 
 ## Graphic fonts for Hexagon
 
