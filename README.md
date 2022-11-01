@@ -119,7 +119,7 @@ Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='center'>
+<details title="Glaux" align='left'>
 <br>
 <summary align='center'><strong>Glaux</strong></summary>
 
