@@ -17,7 +17,7 @@
 
 <hr>
 
-<details title="Português" align='left'>
+<details title="Português" align='justify'>
 <br>
 <summary align='left'><strong>Português</strong></summary>
 
@@ -27,7 +27,7 @@ Este repositório contém as fontes gráficas para o Hexagon.
 
 As fontes são escritas em assembly e geram imagens binárias que devem conter uma assinatura de fonte. Essas imagens são carregadas pelo Hexagon na memória e utilizadas para a exibição.
 
-<details title="hint" align='left'>
+<details title="hint" align='justify'>
 <br>
 <summary align='center'><strong>hint</strong></summary>
 
@@ -36,7 +36,7 @@ Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='left'>
+<details title="Atomic" align='justify'>
 <br>
 <summary align='center'><strong>Atomic</strong></summary>
 
@@ -45,7 +45,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='left'>
+<details title="Atomic Flat" align='justify'>
 <br>
 <summary align='center'><strong>Atomic Flat</strong></summary>
 
@@ -54,7 +54,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='left'>
+<details title="DNA" align='justify'>
 <br>
 <summary align='center'><strong>DNA</strong></summary>
 
@@ -63,9 +63,9 @@ Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='left'>
+<details title="Glaux" align='justify'>
 <br>
-<summary align='center'><strong>Glauc</strong></summary>
+<summary align='center'><strong>Glaux</strong></summary>
 
 Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
@@ -73,7 +73,7 @@ Fonte obtida de um projeto antigo de sistema operacional de domínio público (G
 
 </details>
 
-<details title="English" align='left'>
+<details title="English" align='justify'>
 <br>
 <summary align='left'><strong>English</strong></summary>
 
@@ -83,7 +83,7 @@ This repository contains the graphic fonts for Hexagon.
 
 Fonts are written in assembly and generate binary images that must contain a font signature. These images are loaded by Hexagon into memory and used for display.
 
-<details title="hint" align='left'>
+<details title="hint" align='justify'>
 <br>
 <summary align='center'><strong>hint</strong></summary>
 
@@ -92,7 +92,7 @@ Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='left'>
+<details title="Atomic" align='justify'>
 <br>
 <summary align='center'><strong>Atomic</strong></summary>
 
@@ -101,7 +101,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='left'>
+<details title="Atomic Flat" align='justify'>
 <br>
 <summary align='center'><strong>Atomic Flat</strong></summary>
 
@@ -110,7 +110,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='left'>
+<details title="DNA" align='justify'>
 <br>
 <summary align='center'><strong>DNA</strong></summary>
 
@@ -119,7 +119,7 @@ Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='left'>
+<details title="Glaux" align='justify'>
 <br>
 <summary align='center'><strong>Glaux</strong></summary>
 
