@@ -27,7 +27,7 @@ Este repositório contém as fontes gráficas para o Hexagon.
 
 As fontes são escritas em assembly e geram imagens binárias que devem conter uma assinatura de fonte. Essas imagens são carregadas pelo Hexagon na memória e utilizadas para a exibição.
 
-<details title="hint" align='center'>
+<details title="hint" align='left'>
 <br>
 <summary align='center'><strong>hint</strong></summary>
 
@@ -36,7 +36,7 @@ Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='center'>
+<details title="Atomic" align='left'>
 <br>
 <summary align='center'><strong>Atomic</strong></summary>
 
@@ -45,7 +45,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='center'>
+<details title="Atomic Flat" align='left'>
 <br>
 <summary align='center'><strong>Atomic Flat</strong></summary>
 
@@ -54,7 +54,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='center'>
+<details title="DNA" align='left'>
 <br>
 <summary align='center'><strong>DNA</strong></summary>
 
@@ -63,7 +63,7 @@ Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='center'>
+<details title="Glaux" align='left'>
 <br>
 <summary align='center'><strong>Glauc</strong></summary>
 
@@ -83,7 +83,7 @@ This repository contains the graphic fonts for Hexagon.
 
 Fonts are written in assembly and generate binary images that must contain a font signature. These images are loaded by Hexagon into memory and used for display.
 
-<details title="hint" align='center'>
+<details title="hint" align='left'>
 <br>
 <summary align='center'><strong>hint</strong></summary>
 
@@ -92,7 +92,7 @@ Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='center'>
+<details title="Atomic" align='left'>
 <br>
 <summary align='center'><strong>Atomic</strong></summary>
 
@@ -101,7 +101,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='center'>
+<details title="Atomic Flat" align='left'>
 <br>
 <summary align='center'><strong>Atomic Flat</strong></summary>
 
@@ -110,7 +110,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='center'>
+<details title="DNA" align='left'>
 <br>
 <summary align='center'><strong>DNA</strong></summary>
 
