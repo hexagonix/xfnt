@@ -27,45 +27,45 @@ Este repositório contém as fontes gráficas para o Hexagon.
 
 As fontes são escritas em assembly e geram imagens binárias que devem conter uma assinatura de fonte. Essas imagens são carregadas pelo Hexagon na memória e utilizadas para a exibição.
 
-<details title="hint" align='left'>
+<details title="hint" align='center'>
 <br>
-<summary align='left'><strong>hint</strong></summary>
+<summary align='center'><strong>hint</strong></summary>
 
 Fonte mais recente desenvolvida para o Hexagon e em teste como fonte padrão. 
 Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='left'>
+<details title="Atomic" align='center'>
 <br>
-<summary align='left'><strong>Atomic</strong></summary>
+<summary align='center'><strong>Atomic</strong></summary>
 
 Fonte desenvolvida para o Hexagon e a fonte padrão (menos quando outra está em teste), mais legível e maior.
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='left'>
+<details title="Atomic Flat" align='center'>
 <br>
-<summary align='left'><strong>Atomic Flat</strong></summary>
+<summary align='center'><strong>Atomic Flat</strong></summary>
 
 Essa fonte é baseada na Atomic e retira alguns detalhes de certos caracteres, como +, ! e =).
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='left'>
+<details title="DNA" align='center'>
 <br>
-<summary align='left'><strong>DNA</strong></summary>
+<summary align='center'><strong>DNA</strong></summary>
 
 Essa fonte está em desenvolvimento e herda detalhes da fonte Atomic.
 Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='left'>
+<details title="Glaux" align='center'>
 <br>
-<summary align='left'><strong>Glauc</strong></summary>
+<summary align='center'><strong>Glauc</strong></summary>
 
 Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
@@ -83,45 +83,45 @@ This repository contains the graphic fonts for Hexagon.
 
 Fonts are written in assembly and generate binary images that must contain a font signature. These images are loaded by Hexagon into memory and used for display.
 
-<details title="hint" align='left'>
+<details title="hint" align='center'>
 <br>
-<summary align='left'><strong>hint</strong></summary>
+<summary align='center'><strong>hint</strong></summary>
 
 Latest font developed for Hexagon and being tested as default font.
 Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic" align='left'>
+<details title="Atomic" align='center'>
 <br>
-<summary align='left'><strong>Atomic</strong></summary>
+<summary align='center'><strong>Atomic</strong></summary>
 
 Font developed for Hexagon and the default font (less when another is being tested), more readable and bigger.
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Atomic Flat" align='left'>
+<details title="Atomic Flat" align='center'>
 <br>
-<summary align='left'><strong>Atomic Flat</strong></summary>
+<summary align='center'><strong>Atomic Flat</strong></summary>
 
 This font is based on Atomic and takes some detail from certain characters, such as +, ! and =).
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="DNA" align='left'>
+<details title="DNA" align='center'>
 <br>
-<summary align='left'><strong>DNA</strong></summary>
+<summary align='center'><strong>DNA</strong></summary>
 
 This font is under development and inherits details from the Atomic font.
 Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
 
-<details title="Glaux" align='left'>
+<details title="Glaux" align='center'>
 <br>
-<summary align='left'><strong>Glaux</strong></summary>
+<summary align='center'><strong>Glaux</strong></summary>
 
 Source taken from an old public domain operating system (GlauxOS) project that is no longer available in online repositories at this time.
 
