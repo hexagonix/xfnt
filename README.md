@@ -15,7 +15,9 @@
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
 <details title="Português" align='justify'>
 <br>
@@ -29,7 +31,7 @@ As fontes são escritas em assembly e geram imagens binárias que devem conter u
 
 <details title="hint" align='justify'>
 <br>
-<summary align='center'><strong>hint</strong></summary>
+<summary align='center'>hint</summary>
 
 Fonte mais recente desenvolvida para o Hexagon e em teste como fonte padrão. 
 Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -38,7 +40,7 @@ Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic" align='justify'>
 <br>
-<summary align='center'><strong>Atomic</strong></summary>
+<summary align='center'>Atomic</summary>
 
 Fonte desenvolvida para o Hexagon e a fonte padrão (menos quando outra está em teste), mais legível e maior.
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -47,7 +49,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic Flat" align='justify'>
 <br>
-<summary align='center'><strong>Atomic Flat</strong></summary>
+<summary align='center'>Atomic Flat</summary>
 
 Essa fonte é baseada na Atomic e retira alguns detalhes de certos caracteres, como +, ! e =).
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -56,7 +58,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="DNA" align='justify'>
 <br>
-<summary align='center'><strong>DNA</strong></summary>
+<summary align='center'>DNA</summary>
 
 Essa fonte está em desenvolvimento e herda detalhes da fonte Atomic.
 Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -65,7 +67,7 @@ Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Glaux" align='justify'>
 <br>
-<summary align='center'><strong>Glaux</strong></summary>
+<summary align='center'>Glaux</summary>
 
 Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
@@ -85,7 +87,7 @@ Fonts are written in assembly and generate binary images that must contain a fon
 
 <details title="hint" align='justify'>
 <br>
-<summary align='center'><strong>hint</strong></summary>
+<summary align='center'>hint</summary>
 
 Latest font developed for Hexagon and being tested as default font.
 Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -94,7 +96,7 @@ Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic" align='justify'>
 <br>
-<summary align='center'><strong>Atomic</strong></summary>
+<summary align='center'>Atomic</summary>
 
 Font developed for Hexagon and the default font (less when another is being tested), more readable and bigger.
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -103,7 +105,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic Flat" align='justify'>
 <br>
-<summary align='center'><strong>Atomic Flat</strong></summary>
+<summary align='center'>Atomic Flat</summary>
 
 This font is based on Atomic and takes some detail from certain characters, such as +, ! and =).
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -112,7 +114,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="DNA" align='justify'>
 <br>
-<summary align='center'><strong>DNA</strong></summary>
+<summary align='center'>DNA</summary>
 
 This font is under development and inherits details from the Atomic font.
 Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -121,7 +123,7 @@ Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Glaux" align='justify'>
 <br>
-<summary align='center'><strong>Glaux</strong></summary>
+<summary align='center'>Glaux</summary>
 
 Source taken from an old public domain operating system (GlauxOS) project that is no longer available in online repositories at this time.
 
