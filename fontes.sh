@@ -52,13 +52,13 @@
 #;; $HexagonixOS$
 
 echo
-echo -e "\e[1;94mConstruindo fontes do Hexagon®...\e[0m {"
+echo -e "\e[1;94mBuilding Hexagon® graphic fonts...\e[0m {"
 echo
 
 for i in *.asm
 do
 
-	echo -en "Construindo fonte para Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
+	echo -en "Building source for Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
 	
 	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
 	
@@ -67,4 +67,4 @@ do
 done
 
 echo
-echo -e "} [\e[32mFontes construídas com sucesso\e[0m]."
+echo -e "} [\e[32mSuccessfully built fonts\e[0m]."
