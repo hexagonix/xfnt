@@ -30,11 +30,11 @@ Este repositório contém as fontes gráficas para o Hexagon.
 
 As fontes são escritas em assembly e geram imagens binárias que devem conter uma assinatura de fonte. Essas imagens são carregadas pelo Hexagon na memória e utilizadas para a exibição.
 
-<details title="hint" align='justify'>
+<details title="Aurora" align='justify'>
 <br>
-<summary align='center'>hint</summary>
+<summary align='center'>Aurora</summary>
 
-Fonte mais recente desenvolvida para o Hexagon e em teste como fonte padrão. 
+Fonte mais recente desenvolvida para o Hexagon e fonte padrão desde a versão H1. 
 Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
@@ -86,11 +86,11 @@ This repository contains the graphic fonts for Hexagon.
 
 Fonts are written in assembly and generate binary images that must contain a font signature. These images are loaded by Hexagon into memory and used for display.
 
-<details title="hint" align='justify'>
+<details title="Aurora" align='justify'>
 <br>
-<summary align='center'>hint</summary>
+<summary align='center'>Aurora</summary>
 
-Latest font developed for Hexagon and being tested as default font.
+Latest font developed for Hexagon and default font since Hexagonix H1.
 Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 </details>
