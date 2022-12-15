@@ -51,7 +51,7 @@
 
 ;;************************************************************************************
 ;;
-;; Fonte Atomic Flat para Sistema Operacional Hexagonix®
+;; Fonte Aura Flat para Sistema Operacional Hexagonix®
 ;;
 ;;************************************************************************************
 
