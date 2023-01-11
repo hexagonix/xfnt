@@ -22,7 +22,7 @@
 
 <details title="Português" align='justify'>
 <br>
-<summary align='left'><strong>Português</strong></summary>
+<summary align='left'><strong>:brazil: Português</strong></summary>
 
 ## Fontes gráficas para Hexagon
 
@@ -59,7 +59,7 @@ As fontes são escritas em Assembly e geram imagens binárias que devem conter u
 
 <details title="Aurora" align='justify'>
 <br>
-<summary align='center'>Aurora</summary>
+<summary align='left'>Aurora</summary>
 
 Fonte mais recente desenvolvida para o Hexagon e fonte padrão desde a versão H1. 
 Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -68,7 +68,7 @@ Desenvolvida em 2022 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic" align='justify'>
 <br>
-<summary align='center'>Atomic</summary>
+<summary align='left'>Atomic</summary>
 
 Fonte desenvolvida para o Hexagon e a fonte padrão (menos quando outra está em teste), mais legível e maior.
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -77,7 +77,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic Flat" align='justify'>
 <br>
-<summary align='center'>Atomic Flat</summary>
+<summary align='left'>Atomic Flat</summary>
 
 Essa fonte é baseada na Atomic e retira alguns detalhes de certos caracteres, como +, ! e =).
 Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -86,7 +86,7 @@ Desenvolvida em 2016-2017 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="DNA" align='justify'>
 <br>
-<summary align='center'>DNA</summary>
+<summary align='left'>DNA</summary>
 
 Essa fonte está em desenvolvimento e herda detalhes da fonte Atomic.
 Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -95,7 +95,7 @@ Desenvolvida em 2017-2018 por [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Glaux" align='justify'>
 <br>
-<summary align='center'>Glaux</summary>
+<summary align='left'>Glaux</summary>
 
 Fonte obtida de um projeto antigo de sistema operacional de domínio público (GlauxOS) que não está mais disponível em repositórios online no momento.
 
@@ -105,7 +105,7 @@ Fonte obtida de um projeto antigo de sistema operacional de domínio público (G
 
 <details title="English" align='justify'>
 <br>
-<summary align='left'><strong>English</strong></summary>
+<summary align='left'><strong>:uk: English</strong></summary>
 
 ## Graphic fonts for Hexagon
 
@@ -142,7 +142,7 @@ Fonts are written in Assembly and generate binary images that must contain a fon
 
 <details title="Aurora" align='justify'>
 <br>
-<summary align='center'>Aurora</summary>
+<summary align='left'>Aurora</summary>
 
 Latest font developed for Hexagon and default font since Hexagonix H1.
 Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -151,7 +151,7 @@ Developed in 2022 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic" align='justify'>
 <br>
-<summary align='center'>Atomic</summary>
+<summary align='left'>Atomic</summary>
 
 Font developed for Hexagon and the default font (less when another is being tested), more readable and bigger.
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -160,7 +160,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Atomic Flat" align='justify'>
 <br>
-<summary align='center'>Atomic Flat</summary>
+<summary align='left'>Atomic Flat</summary>
 
 This font is based on Atomic and takes some detail from certain characters, such as +, ! and =).
 Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -169,7 +169,7 @@ Developed in 2016-2017 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="DNA" align='justify'>
 <br>
-<summary align='center'>DNA</summary>
+<summary align='left'>DNA</summary>
 
 This font is under development and inherits details from the Atomic font.
 Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
@@ -178,7 +178,7 @@ Developed in 2017-2018 by [Felipe Lunkes](https://github.com/felipenlunkes).
 
 <details title="Glaux" align='justify'>
 <br>
-<summary align='center'>Glaux</summary>
+<summary align='leeft'>Glaux</summary>
 
 Source taken from an old public domain operating system (GlauxOS) project that is no longer available in online repositories at this time.
 
