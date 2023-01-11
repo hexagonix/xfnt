@@ -21,8 +21,7 @@
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
 <details title="Português" align='justify'>
-<br>
-<summary align='left'><strong>:brazil: Português</strong></summary>
+<summary align='left'><strong>:brazil: Português (Brasil)</strong></summary>
 
 ## Fontes gráficas para Hexagon
 
@@ -104,7 +103,6 @@ Fonte obtida de um projeto antigo de sistema operacional de domínio público (G
 </details>
 
 <details title="English" align='justify'>
-<br>
 <summary align='left'><strong>:uk: English</strong></summary>
 
 ## Graphic fonts for Hexagon
