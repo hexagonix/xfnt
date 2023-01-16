@@ -56,6 +56,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 As fontes são escritas em Assembly e geram imagens binárias que devem conter uma assinatura de fonte. Essas imagens são carregadas pelo Hexagon na memória e utilizadas para a exibição.
 
+> **Este arquivo não fornece informações técnicas sobre as fontes gráficas do Hexagonix. Para acessar a documentação técnica completa, clique [aqui](https://github.com/hexagonix/Doc/blob/main/fnt/README.pt.md)**
+
 <details title="Aurora" align='justify'>
 <br>
 <summary align='left'>Aurora</summary>
@@ -137,6 +139,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 </details>
 
 Fonts are written in Assembly and generate binary images that must contain a font signature. These images are loaded by Hexagon into memory and used for display.
+
+> **This file does not provide technical information about Hexagonix graphical fonts. To access the complete technical documentation, click [here](https://github.com/hexagonix/Doc/blob/main/fnt/README.en.md)**
 
 <details title="Aurora" align='justify'>
 <br>
