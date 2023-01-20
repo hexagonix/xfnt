@@ -58,12 +58,12 @@ echo
 for i in *.asm
 do
 
-	echo -en "Building graphic font for Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
-	
-	fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
-	
-	echo -e "[\e[32mOk\e[0m]"
-	
+    echo -en "Building graphic font for Hexagon® \e[1;94m$(basename $i .asm)\e[0m..."
+    
+    fasm $i `basename $i .asm`.fnt >> /dev/null  || desmontar
+    
+    echo -e "[\e[32mOk\e[0m]"
+    
 done
 
 echo
