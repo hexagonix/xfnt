@@ -3,14 +3,14 @@
 ;;    
 ;; ┌┐ ┌┐                                 Sistema Operacional Hexagonix®
 ;; ││ ││
-;; │└─┘├──┬┐┌┬──┬──┬──┬─┐┌┬┐┌┐    Copyright © 2016-2023 Felipe Miguel Nery Lunkes
+;; │└─┘├──┬┐┌┬──┬──┬──┬─┐┌┬┐┌┐    Copyright © 2015-2023 Felipe Miguel Nery Lunkes
 ;; │┌─┐││─┼┼┼┤┌┐│┌┐│┌┐│┌┐┼┼┼┼┘          Todos os direitos reservados
 ;; ││ │││─┼┼┼┤┌┐│└┘│└┘││││├┼┼┐
 ;; └┘ └┴──┴┘└┴┘└┴─┐├──┴┘└┴┴┘└┘
 ;;              ┌─┘│                 Licenciado sob licença BSD-3-Clause
 ;;              └──┘          
 ;;                                             Versão 1.4.0
-;;                                  Data da última alteração: 15/04/2023
+;;                                  Data da última alteração: 15/04/2022
 ;;
 ;;************************************************************************************
 ;;
