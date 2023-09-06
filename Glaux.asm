@@ -3,7 +3,7 @@
 assinatura: db "HFNT"
 
 unicode_0000:
-    
+
     times 16 db 0
 
 unicode_0033:
