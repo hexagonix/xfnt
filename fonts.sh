@@ -68,7 +68,7 @@
 #
 # $HexagonixOS$
 
-# Versão 1.1
+# Version 2.0
 
 echo
 echo -e "\e[1;94mBuilding Hexagon graphic fonts...\e[0m {"
