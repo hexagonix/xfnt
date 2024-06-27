@@ -68,8 +68,18 @@
 #
 # $HexagonixOS$
 
-buildFonts()
-{
+function main() {
+
+case $1 in
+
+--version) showVersion; exit;;
+*) buildFonts; exit;;
+
+esac
+
+}
+
+function buildFonts() {
 
 echo
 echo -e "\e[1;94mBuilding Hexagon graphic fonts...\e[0m {"
@@ -91,19 +101,15 @@ echo -e "} [\e[32mSuccessfully built graphic fonts\e[0m]."
 
 }
 
-showVersion()
-{
+function showVersion() {
+
 echo "hx build module for fonts, version $FONTS_MOD_VERSION"
 echo
 echo -e "\e[0mCopyright (c) 2015-2024 Felipe Miguel Nery Lunkes\e[0m"
 echo -e "hx and hx modules are licensed under BSD-3-Clause and comes with no warranty."
+
 }
 
-export FONTS_MOD_VERSION="3.0.0"
+export FONTS_MOD_VERSION="3.0.1"
 
-case $1 in
-
---version) showVersion; exit;;
-*) buildFonts; exit;;
-
-esac
+main $1
