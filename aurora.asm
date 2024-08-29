@@ -66,12 +66,12 @@
 ;;
 ;; $HexagonixOS$
 
-;; Versão 1.4.0
-;; Data da última alteração: 15/04/2022
+;; Version 1.5.0
+;; Last update: 28/08/2024
 
 ;;************************************************************************************
 ;;
-;; Fonte Aurora para Sistema Operacional Hexagonix
+;; Aurora font for Hexagonix Operating System
 ;;
 ;;************************************************************************************
 
@@ -2091,8 +2091,8 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-    db 00001000b
-    db 00001000b
+    db 00000000b
+    db 00000000b
     db 00001000b
     db 00001000b
     db 00001000b
@@ -2101,12 +2101,11 @@ assinatura: db "HFNT"
     db 00001000b
     db 00001000b
 
+    db 00001000b
     db 00000000b
     db 00000000b
     db 00000000b
     db 00000000b
-    db 00000000b
-
 
 .chave.Direita: ;; }
 
