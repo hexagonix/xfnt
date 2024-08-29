@@ -66,12 +66,12 @@
 ;;
 ;; $HexagonixOS$
 
-;; Versão 1.0.0
-;; Data da última alteração: 15/04/2022
+;; Version 1.0.0
+;; Last update: 15/04/2022
 
 ;;************************************************************************************
 ;;
-;; Fonte Aura para Sistema Operacional Hexagonix
+;; Aura font for Hexagonix Operating System
 ;;
 ;;************************************************************************************
 

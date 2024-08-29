@@ -66,12 +66,12 @@
 ;;
 ;; $HexagonixOS$
 
-;; Versão 0.0.1
-;; Data da última alteração: 15/04/2022
+;; Version 0.0.1
+;; Last update: 15/04/2022
 
 ;;************************************************************************************
 ;;
-;; Fonte DNA (em desenvolvimento) para Sistema Operacional Hexagonix
+;; DNA font (under development) for Hexagonix Operating System
 ;;
 ;;************************************************************************************
 

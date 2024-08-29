@@ -1,4 +1,4 @@
-;; Fonte derivada do projeto GlauxOS (projeto descontinuado)
+;; Source derived from the GlauxOS project (discontinued project)
 
 assinatura: db "HFNT"
 
