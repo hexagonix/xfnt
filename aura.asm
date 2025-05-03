@@ -66,8 +66,8 @@
 ;;
 ;; $HexagonixOS$
 
-;; Version 1.0.0
-;; Last update: 15/04/2022
+;; Version 1.1.0
+;; Last update: 03/05/2025
 
 ;;************************************************************************************
 ;;
@@ -162,7 +162,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .dolar:         ;; $
 
     db 00000000b
@@ -205,7 +204,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .eComercial:    ;; &
 
     db 00000000b
@@ -226,7 +224,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .apostrofe:     ;; '
 
@@ -249,7 +246,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .paranteses.Esquerdo:   ;; (
 
     db 00000000b
@@ -270,7 +266,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .paranteses.Direito:    ;; )
 
@@ -293,7 +288,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .asterisco:     ;; *
 
     db 00000000b
@@ -314,7 +308,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .mais:          ;; +
 
@@ -337,7 +330,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .virgula:       ;; ,
 
     db 00000000b
@@ -358,8 +350,6 @@ assinatura: db "HFNT"
     db 00100100b
     db 00010100b
     db 00011000b
-
-
 
 .menos:         ;; -
 
@@ -382,7 +372,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .ponto:          ;; .
 
     db 00000000b
@@ -403,7 +392,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .barra:         ;; /
 
@@ -448,7 +436,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .um:            ;; 1
 
@@ -681,7 +668,6 @@ assinatura: db "HFNT"
     db 00010100b
     db 00011000b
 
-
 .menorQue:      ;; <
 
     db 00000000b
@@ -724,7 +710,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .maiorQue:      ;; >
 
     db 00000000b
@@ -745,7 +730,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .interrogacao:  ;; ?
 
@@ -768,7 +752,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .arroba:        ;; @
 
     db 00000000b
@@ -789,7 +772,6 @@ assinatura: db "HFNT"
 
     db 00000000b
     db 00000000b
-
 
 ;; Maiúsculo
 
@@ -814,7 +796,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .B:
 
     db 00000000b
@@ -835,7 +816,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .C:
 
@@ -858,28 +838,26 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .D:
 
     db 00000000b
     db 00000000b
 
-    db 00111100b
+    db 00111000b
+    db 01000100b
     db 01000010b
     db 01000001b
     db 01000001b
     db 01000001b
     db 01000001b
     db 01000001b
-    db 01000001b
-    db 01000001b
     db 01000010b
-    db 00111100b
+    db 01000100b
+    db 00111000b
 
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .E:
 
@@ -902,7 +880,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .F:
 
     db 00000000b
@@ -924,7 +901,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .G:
 
     db 00000000b
@@ -936,7 +912,7 @@ assinatura: db "HFNT"
     db 01000000b
     db 01000000b
     db 01001110b
-    db 01001001b
+    db 01000001b
     db 01000001b
     db 01000001b
     db 01000001b
@@ -945,7 +921,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .H:
 
@@ -968,7 +943,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .I:
 
     db 00000000b
@@ -989,7 +963,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .J:
 
@@ -1012,7 +985,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .K:
 
     db 00000000b
@@ -1033,7 +1005,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .L:
 
@@ -1056,7 +1027,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .M:
 
     db 00000000b
@@ -1077,7 +1047,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .N:
 
@@ -1100,7 +1069,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .O:
 
     db 00000000b
@@ -1121,7 +1089,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .P:
 
@@ -1144,7 +1111,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .Q:
 
     db 00000000b
@@ -1165,7 +1131,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .R:
 
@@ -1209,7 +1174,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .T:
 
     db 00000000b
@@ -1230,7 +1194,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .U:
 
@@ -1253,7 +1216,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .V:
 
     db 00000000b
@@ -1274,7 +1236,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .W:
 
@@ -1297,7 +1258,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .X:
 
     db 00000000b
@@ -1318,7 +1278,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .Y:
 
@@ -1341,7 +1300,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .Z:
 
     db 00000000b
@@ -1362,7 +1320,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .colchete.Esquerdo: ;; [
 
@@ -1406,7 +1363,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .colchete.Direito:  ;; ]
 
     db 00000000b
@@ -1427,7 +1383,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .circunflexo:   ;; ^
 
@@ -1450,7 +1405,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .underScore:    ;; _
 
     db 00000000b
@@ -1472,7 +1426,6 @@ assinatura: db "HFNT"
     db 00100001b
     db 00111111b
 
-
 .acentoGrave:   ;; `
 
     db 00000000b
@@ -1493,7 +1446,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 ;; Minúsculas
 
@@ -1539,7 +1491,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .c:
 
     db 00000000b
@@ -1560,7 +1511,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .d:
 
@@ -1583,7 +1533,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .e:
 
     db 00000000b
@@ -1604,7 +1553,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .f:
 
@@ -1627,7 +1575,6 @@ assinatura: db "HFNT"
     db 01000000b
     db 01000000b
 
-
 .g:
 
     db 00000000b
@@ -1648,7 +1595,6 @@ assinatura: db "HFNT"
     db 00000001b
     db 00001001b
     db 00000110b
-
 
 .h:
 
@@ -1671,7 +1617,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .i:
 
     db 00000000b
@@ -1692,7 +1637,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .j:
 
@@ -1715,7 +1659,6 @@ assinatura: db "HFNT"
     db 01001000b
     db 00110000b
 
-
 .k:
 
     db 00000000b
@@ -1736,7 +1679,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .l:
 
@@ -1759,7 +1701,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .m:
 
     db 00000000b
@@ -1780,7 +1721,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .n:
 
@@ -1803,7 +1743,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .o:
 
     db 00000000b
@@ -1824,7 +1763,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .p:
 
@@ -1847,7 +1785,6 @@ assinatura: db "HFNT"
     db 01000000b
     db 01000000b
 
-
 .q:
 
     db 00000000b
@@ -1868,7 +1805,6 @@ assinatura: db "HFNT"
     db 00000001b
     db 00000001b
     db 00000001b
-
 
 .r:
 
@@ -1891,7 +1827,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .s:
 
     db 00000000b
@@ -1912,7 +1847,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .t:
 
@@ -1935,7 +1869,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .u:
 
     db 00000000b
@@ -1956,7 +1889,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .v:
 
@@ -1979,7 +1911,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .w:
 
     db 00000000b
@@ -2000,7 +1931,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .x:
 
@@ -2023,7 +1953,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .y:
 
     db 00000000b
@@ -2044,7 +1973,6 @@ assinatura: db "HFNT"
     db 00001000b
     db 00001000b
     db 00110000b
-
 
 .z:
 
@@ -2067,7 +1995,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .chave.Esquerda: ;; {
 
     db 00000000b
@@ -2088,7 +2015,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .barraVertical: ;; |
 
@@ -2111,7 +2037,6 @@ assinatura: db "HFNT"
     db 00000000b
     db 00000000b
 
-
 .chave.Direita: ;; }
 
     db 00000000b
@@ -2129,11 +2054,9 @@ assinatura: db "HFNT"
     db 00000010b
     db 01111100b
 
-
     db 00000000b
     db 00000000b
     db 00000000b
-
 
 .til:           ;; ~
 
