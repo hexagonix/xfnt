@@ -1,6 +1,6 @@
 ;; Source derived from the GlauxOS project (discontinued project)
 
-assinatura: db "HFNT"
+header: db "HFNT"
 
 unicode_0000:
 
